@@ -1,0 +1,134 @@
+[
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f66e"
+    },
+    "nome": "João",
+    "email": "joao@email.com",
+    "descricaoImovel": "Apartamento de 2 quartos",
+    "valorImovel": 300000,
+    "enderecoImovel": {
+      "rua": "Rua Monteiro",
+      "numero": 123,
+      "complemento": "Apto 101",
+      "bairro": "Bairro Santa Cruz",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f678"
+        },
+        "nome": "Porto Alegre",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 99578234
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f66f"
+    },
+    "nome": "Elisa",
+    "email": "elisa@email.com",
+    "descricaoImovel": "Casa de 3 quartos",
+    "valorImovel": 500000,
+    "enderecoImovel": {
+      "rua": "Rua Gonçalves",
+      "numero": 456,
+      "complemento": null,
+      "bairro": "Bairro Aleluia",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67a"
+        },
+        "nome": "Viamão",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 23894702
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f66f"
+    },
+    "nome": "Elisa",
+    "email": "elisa@email.com",
+    "descricaoImovel": "Apartamento de 1 quarto",
+    "valorImovel": 200000,
+    "enderecoImovel": {
+      "rua": "Rua Nova",
+      "numero": 123,
+      "complemento": null,
+      "bairro": "Bairro Central",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67e"
+        },
+        "nome": "Recife",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f67d"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67d"
+        },
+        "uf": "PE",
+        "nome": "Pernambuco",
+        "regiao": "Região Nordeste"
+      },
+      "cep": 90500000
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f66f"
+    },
+    "nome": "Elisa",
+    "email": "elisa@email.com",
+    "descricaoImovel": "Casa de 2 quartos",
+    "valorImovel": 300000,
+    "enderecoImovel": {
+      "rua": "Rua Velha",
+      "numero": 456,
+      "complemento": null,
+      "bairro": "Bairro Antigo",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f678"
+        },
+        "nome": "Porto Alegre",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 90500001
+    }
+  }
+]

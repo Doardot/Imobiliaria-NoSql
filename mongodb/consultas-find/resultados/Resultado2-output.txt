@@ -1,0 +1,10 @@
+Nome: João
+Email: joao@email.com
+Descricao: Apartamento de 2 quartos
+Valor: 300000
+Endereco: {"rua":"Rua Monteiro","numero":123,"bairro":"Bairro Santa Cruz","cidade":"Porto Alegre","estado":"Rio Grande do Sul","cep":99578234}
+Nome: Elisa
+Email: elisa@email.com
+Descricao: Casa de 3 quartos
+Valor: 500000
+Endereco: {"rua":"Rua Gonçalves","numero":456,"bairro":"Bairro Aleluia","cidade":"Viamão","estado":"Rio Grande do Sul","cep":23894702}

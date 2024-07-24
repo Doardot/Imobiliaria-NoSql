@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f674"
+    },
+    "descricaoImovel": "Apartamento de 2 quartos",
+    "enderecoImovel": {
+      "rua": "Rua Monteiro",
+      "numero": 123,
+      "complemento": "Apto 101",
+      "bairro": "Bairro Santa Cruz",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f678"
+        },
+        "nome": "Porto Alegre",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 99578234
+    },
+    "dataProposta": {
+      "$date": "2023-01-01T00:00:00Z"
+    },
+    "valorProposta": 290000,
+    "nomeCliente": "Elisa"
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f676"
+    },
+    "descricaoImovel": "Casa de 3 quartos",
+    "enderecoImovel": {
+      "rua": "Rua Gonçalves",
+      "numero": 456,
+      "complemento": null,
+      "bairro": "Bairro Aleluia",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67a"
+        },
+        "nome": "Viamão",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 23894702
+    },
+    "dataProposta": {
+      "$date": "2023-02-01T00:00:00Z"
+    },
+    "valorProposta": 480000,
+    "nomeCliente": "João"
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f682"
+    },
+    "descricaoImovel": "Apartamento de 1 quarto",
+    "enderecoImovel": {
+      "rua": "Rua Nova",
+      "numero": 123,
+      "complemento": null,
+      "bairro": "Bairro Central",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67e"
+        },
+        "nome": "Recife",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f67d"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f67d"
+        },
+        "uf": "PE",
+        "nome": "Pernambuco",
+        "regiao": "Região Nordeste"
+      },
+      "cep": 90500000
+    },
+    "dataProposta": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "valorProposta": 250000,
+    "nomeCliente": "Maria"
+  },
+  {
+    "_id": {
+      "$oid": "60ad5f62f8e1a21a30d5f683"
+    },
+    "descricaoImovel": "Casa de 2 quartos",
+    "enderecoImovel": {
+      "rua": "Rua Velha",
+      "numero": 456,
+      "complemento": null,
+      "bairro": "Bairro Antigo",
+      "cidade": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f678"
+        },
+        "nome": "Porto Alegre",
+        "estadoId": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        }
+      },
+      "estado": {
+        "_id": {
+          "$oid": "60ad5f62f8e1a21a30d5f679"
+        },
+        "uf": "RS",
+        "nome": "Rio Grande do Sul",
+        "regiao": "Região Sul"
+      },
+      "cep": 90500001
+    },
+    "dataProposta": {
+      "$date": "2024-02-01T00:00:00Z"
+    },
+    "valorProposta": 280000,
+    "nomeCliente": "Maria"
+  }
+]

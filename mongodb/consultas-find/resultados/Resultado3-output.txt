@@ -1,0 +1,52 @@
+Descrição do imóvel: Apartamento de 2 quartos
+Endereço do imóvel: 
+        Rua: Rua Monteiro,
+        Número: 123,
+        Bairro: Bairro Santa Cruz,
+        Cidade: Porto Alegre,
+        Estado: Rio Grande do Sul,
+        Cep: 99578234,
+        Complemento: Apto 101
+Data da proposta: Sat Dec 31 2022 21:00:00 GMT-0300 (Horário Padrão de Brasília)
+Valor da proposta: 290000
+Nome do cliente: Elisa
+---
+Descrição do imóvel: Casa de 3 quartos
+Endereço do imóvel: 
+        Rua: Rua Gonçalves,
+        Número: 456,
+        Bairro: Bairro Aleluia,
+        Cidade: Viamão,
+        Estado: Rio Grande do Sul,
+        Cep: 23894702,
+        Complemento: null
+Data da proposta: Tue Jan 31 2023 21:00:00 GMT-0300 (Horário Padrão de Brasília)
+Valor da proposta: 480000
+Nome do cliente: João
+---
+Descrição do imóvel: Apartamento de 1 quarto
+Endereço do imóvel: 
+        Rua: Rua Nova,
+        Número: 123,
+        Bairro: Bairro Central,
+        Cidade: Recife,
+        Estado: Pernambuco,
+        Cep: 90500000,
+        Complemento: null
+Data da proposta: Sun Dec 31 2023 21:00:00 GMT-0300 (Horário Padrão de Brasília)
+Valor da proposta: 250000
+Nome do cliente: Maria
+---
+Descrição do imóvel: Casa de 2 quartos
+Endereço do imóvel: 
+        Rua: Rua Velha,
+        Número: 456,
+        Bairro: Bairro Antigo,
+        Cidade: Porto Alegre,
+        Estado: Rio Grande do Sul,
+        Cep: 90500001,
+        Complemento: null
+Data da proposta: Wed Jan 31 2024 21:00:00 GMT-0300 (Horário Padrão de Brasília)
+Valor da proposta: 280000
+Nome do cliente: Maria
+---
